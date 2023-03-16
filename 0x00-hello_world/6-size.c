@@ -1,4 +1,4 @@
-#include <iistdio.h>
+#include <stdio.h>
 /**
  * main - print out data size c
  * Return: 0
