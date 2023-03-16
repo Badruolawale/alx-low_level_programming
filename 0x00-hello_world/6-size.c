@@ -5,16 +5,16 @@
  */
 int main(void)
 {
-	char x;
-	int y;
-	long int z;
-	long long int w;
-	float g;
+	char v;
+	int w;
+	long int x;
+	long long int y;
+	float z;
 
-	printf("Size of char: %lu byte(s)\n", (unsigned long)sizeof(x));
-	printf("Size of int: %lu byte(s)\n", (unsigned long)sizeof(y));
-	printf("Size of long int: %lu byte(s)\n", i(unsigned long)sizeof(z));
-	printf("Size of long long int: %lu byte(s)\n", (unsigned long)sizeof(w));
-	printf("Size of float: %lu byte(s)\n", (unsigned long)sizeof(g));
+	printf("Size of char: %lu byte(s)\n", (unsigned long)sizeof(v));
+	printf("Size of int: %lu byte(s)\n", (unsigned long)sizeof(w));
+	printf("Size of long int: %lu byte(s)\n", i(unsigned long)sizeof(x));
+	printf("Size of long long int: %lu byte(s)\n", (unsigned long)sizeof(y));
+	printf("Size of float: %lu byte(s)\n", (unsigned long)sizeof(z));
 	return (0);
 }
