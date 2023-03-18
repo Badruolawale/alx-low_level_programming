@@ -1,8 +1,9 @@
 #include <stdio.h>
 /*
- * main - print data type size in c
+ * main - Entry point
+ * print
  * Return: Always 0 (Success)
- */
+*/
 int main(void)
 {
 	char v;
